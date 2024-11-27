@@ -1,0 +1,11 @@
+Sale_id,product_name,quantity,price,region
+1,Laptop,2,1500,North
+2,Laptop,3,1500,South
+3,Phone,5,800,North
+4,Tablet,7,400,West
+5,Phone,6,800,East
+6,Laptop,4,1500,East
+7,Tablet,3,400,North
+8,Phone,8,800,South
+9,Laptop,5,1500,West
+10,Phone,2,800,West
